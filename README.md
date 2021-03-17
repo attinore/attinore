@@ -5,7 +5,7 @@ I am project manager turned a UX/UI designer/frontend developer - working at a d
 - 🌱 I’m currently learning JavaScript and Ruby on Rails.
 - 👯 I’m looking to collaborate on UX projects.
 - 💬 Ask me about user research and business design.
-- 📫 How to reach me: attinore@gmail.com
+- 📫 How to reach me: attinore@gmail.com | https://www.linkedin.com/in/hongjoo/
 - 😄 Pronouns: She/Her
 - 🇯🇵 🇳🇿 🇰🇷 🇺🇸 : Countries lived
 - 🌏 Languages: Fluent in Japanese and English, Native Korean speaker.
