@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am project manager turned a UX/UI designer/frontend developer - working at a design consulting company, putting "PEOPLE" right in the center. Recently graduated from a coding bootcamp, my goal is to create product and services to solve problems people face on a daily basis with the newly learned skill. 
+I am project manager turned a UX/UI designer/frontend developer - working at a design consulting company, putting "PEOPLE" right in the center. Recently graduated from a coding bootcamp, my goal is to create products and services to solve problems people face on a daily basis. Starting one step at a time.
 
 - 🔭 I’m currently working on Pantry.
 - ✔️ HTML, CSS/SCSS, JavaScript, Ruby, Rails, and git.
